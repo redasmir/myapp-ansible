@@ -1,2 +1,4 @@
+web ansible_ssh_host=192.168.33.60
+
 [webservers]
-192.168.33.60 ansible_user=vagrant
+web
