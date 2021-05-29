@@ -1,2 +1,2 @@
 [webservers]
-192.168.33.60 ansible_user=vagrant 
+192.168.33.60 ansible_user=vagrant
